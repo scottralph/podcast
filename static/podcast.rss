@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Scott Ralph's Podcast</title>
+    <googleplay:owner>scott.ralph@scottralph.org</googleplay:owner>
+    <googleplay:author>Scott</googleplay:author>
+    <description>Scott Ralph's Music Podcast</description>
+    <googleplay:image href="https://www.example.com/podcasts/dafnas-zebras/img/dafna-zebra-pod-logo.jpg"/>
+    <language>en-us</language>
+    <link>https://podcast.scottralph.org</link>
+    <item>
+      <title>Podcast #1, Equinox, John Coltrane</title>
+      <description>From John Coltrane's album of 1964, Coltrane's Sound.</description>
+      <pubDate>Wed, 21 Jul 2021 12:00:00 GMT</pubDate>
+      <enclosure url="https://podcast-sz6gql4gna-uc.a.run.app/static/podcast_001_John_Coltrane_Equinox.mp3"
+                 type="audio/mpeg" length="13064585"/>
+      <itunes:duration>9:50</itunes:duration>
+      <guid isPermaLink="false">scottralph_podcast_1</guid>
+    </item>
+  </channel>
+</rss>
