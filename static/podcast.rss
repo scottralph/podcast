@@ -19,5 +19,15 @@
       <itunes:duration>9:50</itunes:duration>
       <guid isPermaLink="false">scottralph_podcast_1</guid>
     </item>
+    <!-- -->
+    <item>
+      <title>Podcast #2, Blues for Mayor Daley</title>
+      <description>Junior Wells, South Side Blues Jam. Junior Wells, Buddy Guy, Otiss Spann</description>
+      <pubDate>Thu, 22 Jul 2021 12:00:00 GMT</pubDate>
+      <enclosure url="https://podcast-sz6gql4gna-uc.a.run.app/static/podcast_002_Junior_Wells_BluesForMayorDaley.mp3"
+                 type="audio/mpeg" length="9221325"/>
+      <itunes:duration>6:35</itunes:duration>
+      <guid isPermaLink="false">scottralph_podcast_2</guid>
+    </item>
   </channel>
 </rss>
